@@ -18,3 +18,9 @@ header,nav,.cc{
 #footer{
     background-color: #0091ff;
 }
+
+.errors{
+    color: red;
+    font-size: 12px;
+
+}
